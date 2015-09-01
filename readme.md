@@ -19,7 +19,7 @@ var allMethods = require('vk-api-all-methods');
 var method = 'friends.get';
 
 if (allMethods.indexOf(method) !== -1)
-	console.log('Hurray!');
+	console.log('Yeah!');
 ```
 
 
